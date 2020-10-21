@@ -1,1 +1,1 @@
-# mitzi-glitch
+# Python3 Flask project
